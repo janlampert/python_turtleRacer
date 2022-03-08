@@ -5,12 +5,6 @@ import time
 turtle.hideturtle()
 turtle.bgcolor("lightblue")
 
-global num1
-global num2
-global num3
-global num4
-global num5
-
 def user_input():
     print ("--Welcome to turtle Racer!--")
     print("-Turtle list-\n1: Red\n2: Blue\n3: Green\n4: Pink\n5: Purple")
